@@ -1,6 +1,6 @@
 # less-meta
 
-> Like meta.stackoverflow.com, but for LESS. 
+> Like meta.stackoverflow.com, but for Less. 
 
 ### For documentation, please go to [less/less-docs](https://github.com/less/less-docs) →
 
